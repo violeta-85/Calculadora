@@ -1,0 +1,6 @@
+public class MiCalculadora {
+
+public static void main(String[] args){
+    int suma = 5 + 5;
+}
+}
