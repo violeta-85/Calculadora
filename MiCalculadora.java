@@ -1,6 +1,6 @@
 public class MiCalculadora {
 
 public static void main(String[] args){
-    int suma = 7 + 7;
+    int suma = 9 + 9;
 }
 }
