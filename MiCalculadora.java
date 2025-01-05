@@ -1,7 +1,7 @@
 public class MiCalculadora {
 
 public static void main(String[] args){
-    int suma = 6 + 3 ;
+    int suma = 10 - 9  ;
     System.out.println(suma);
     }
 }
